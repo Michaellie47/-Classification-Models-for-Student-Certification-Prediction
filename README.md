@@ -19,17 +19,15 @@ Both models are compared based on validation accuracy, and the best-performing m
 ## Project Structure
 
 The repository is organized as follows:
-- **data/**: Contains training and testing datasets and output files.
-- **notebooks/**: Jupyter notebooks for step-by-step analysis.
-- **src/**: Source code for data preprocessing, model training, and evaluation.
-- **results/**: Final outputs, plots, and tables.
+- **Data Preprocessing/**: Source cde for data preprocessing.
+- **Model Training and Evaluation/**: Source code for model training, and evaluation.
+- **Results and Analysis/**: Final outputs, plots, and tables.
 
 ## Key Files
 
-- **data_preprocessing.py**: Functions for data cleaning, encoding, and imputation.
-- **model_training.py**: Implements and trains both models, including hyperparameter tuning.
-- **model_evaluation.py**: Compares model accuracy and generates accuracy tables.
-- **utils.py**: Contains utility functions for file handling and data management.
+- **data_preprocessing.ipynb**: Functions for data cleaning, encoding, and imputation.
+- **model_training_and_evaluation.ipynb**: Implements and trains both models, including hyperparameter tuning.
+- **results_and_analysis**: Compare model accuracy and generates accuracy tables.
 
 ## Installation and Usage
 
