@@ -19,9 +19,9 @@ Both models are compared based on validation accuracy, and the best-performing m
 ## Project Structure
 
 The repository is organized as follows:
-- **Data Preprocessing/**: Source cde for data preprocessing.
-- **Model Training and Evaluation/**: Source code for model training, and evaluation.
-- **Results and Analysis/**: Final outputs, plots, and tables.
+- **Data Preprocessing**: Source cde for data preprocessing.
+- **Model Training and Evaluation**: Source code for model training, and evaluation.
+- **Results and Analysis**: Final outputs, plots, and tables.
 
 ## Key Files
 
